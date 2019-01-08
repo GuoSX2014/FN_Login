@@ -1,3 +1,7 @@
+source 'https://gitlab.enncloud.cn/FNMobileTeam/FNSpecRepos.git'
+source 'https://github.com/GuoSX2014/FN_SpecRepos.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
 use_frameworks!
 
 platform :ios, '8.0'

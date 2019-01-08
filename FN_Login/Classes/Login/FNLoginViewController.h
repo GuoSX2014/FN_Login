@@ -6,9 +6,9 @@
 //  Copyright © 2018年 fanneng. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <FN_Base/FNBaseViewController.h>
 
-@interface FNLoginViewController : UIViewController
+@interface FNLoginViewController : FNBaseViewController
 
 @end
 
